@@ -21,6 +21,6 @@ L’objectif est d’automatiser le traitement des tickets clients :
 Lorsqu’un client écrit :
 > "Je n'arrive pas à finaliser mon paiement sur le site."
 Le système produit :  
-![Exécution du système](../images/image.png)
+![Exécution du système](image.png)
 
 
