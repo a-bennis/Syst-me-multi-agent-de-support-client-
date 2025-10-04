@@ -12,15 +12,15 @@ L’objectif est d’automatiser le traitement des tickets clients :
 - 🧩 **Analyst Agent** : analyse le message du client et identifie le problème principal.  
 - 💬 **Response Agent** : rédige une réponse claire, polie et adaptée au contexte du ticket.  
 - 🤝 **Team Coordination** : orchestre la collaboration entre les deux agents pour produire une réponse cohérente.  
-- ⚙️ **Utilisation de MistralChat** : génération de texte fluide et naturelle.  
+- ⚙️ **Utilisation de MistralChat** pour la génération de texte naturelle et fluide.  
 - 🔐 **Gestion sécurisée de la clé API** via `.env`.
 
 ---
-
 ## 💻 Exemple d’exécution
 
 Lorsqu’un client écrit :
 > "Je n'arrive pas à finaliser mon paiement sur le site."
+Le système produit :  
+![Exécution du système](./images/image.png)
 
-Le système produit :
 
